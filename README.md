@@ -1,5 +1,5 @@
 
-This repo has been copied from https://github-dev.cs.illinois.edu/cs225-fa21/ishank3-jinyud2-jcsong3-byim3 and was the final project of CS225.
+This repo has been copied from https://github-dev.cs.illinois.edu/cs225-fa21/ishank3-jinyud2-jcsong3-byim3 and was the final project of CS225. Some files could not be copied but will be included in the future.
 
 
 # CS 225 Final Project repository
